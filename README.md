@@ -5,4 +5,5 @@
 When typing commands don't use "[ ]" or "|".
 
 `//hw [show|hide]  - toggles text display.`
+
 `//hw update [str] - change the displayed string to [str].`
